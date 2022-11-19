@@ -1,2 +1,2 @@
 # appbank
-This repo contains my project of a banking app
+This repo contains the content of group4 cloned repostiory
